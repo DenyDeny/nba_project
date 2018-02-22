@@ -43,8 +43,6 @@ const SliderTemplates = (props) => {
 
     }
 
-
-
     return(
         <Slick {...settings} >
             {template}

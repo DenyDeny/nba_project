@@ -91,6 +91,11 @@ class NewsList extends Component {
                   <div />
                 </div>
                 <div className={styles.right}>
+                  <CardInfo
+                    teams={this.state.teams}
+                    team={item.team}
+                    date={item.date}
+                  />
                   <h2>{item.title}</h2>
                 </div>
               </div>

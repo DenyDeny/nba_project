@@ -1,4 +1,3 @@
-
 .newslist_item {
     border: 1px solid #f2f2f2;
     background: #fff;
@@ -17,13 +16,6 @@
     text-decoration:none;
 }
 
-
-
-
-
-
-
-
 .newsList_wrapper {
     box-sizing: border-box;
     opacity: 0;
@@ -35,8 +27,6 @@
     opacity:1;
     transform: translateX(0%)
 }
-
-
 
 .flex_wrapper {
     display: flex;
